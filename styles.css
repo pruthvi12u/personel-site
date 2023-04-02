@@ -1,0 +1,101 @@
+body{
+    background-color: #d9f9fa;
+    
+}
+
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    height: 2px;
+    width: 5%;
+    
+}
+
+#img1{
+    height: 15%;
+    width: 15%;
+    border-radius: 100%;
+    
+}
+
+img:hover{
+    background-color: rgb(197, 197, 193);
+}
+
+h3{
+    color: #05aaaa;
+}
+
+h1{
+    color: #31c1fa;
+    font-family: "Lucida Handwriting","Vivaldi","schoolbell","cursive","Comic Sans MS","Lucida Console", "Courier New", monospace;
+    
+}
+
+#intro{
+
+    color: #535657;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+#image{
+
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+#contact{
+
+    text-align: center;
+}
+
+#img2{
+
+    height: 2%;
+    width: 2%;
+    
+}
+
+#acft{
+
+    background-color: rgb(217, 249, 250);
+    height: 40%;
+    width: 40%;
+}
+
+#wave{
+
+    background-color: rgb(217, 249, 250);
+    height: 80%;
+    width: 80%;
+}
+
+.menu{
+
+    background-color: #070594;
+    height: 40px;
+    width: 95px;
+    border-radius:0px;
+    
+    
+}
+
+.menu:hover{
+
+    background-color:#060477;
+}
+
+.menu-text{
+
+    color:#d9f9fa;
+    margin-top: 12px;
+    margin-left:30px;
+
+}
+
+
